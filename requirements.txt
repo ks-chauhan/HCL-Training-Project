@@ -1,0 +1,28 @@
+# Scraping
+selenium
+webdriver-manager
+
+# Data manipulation and analysis
+pandas
+matplotlib
+numpy
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Jupyter Notebook
+ipykernel
+
+# Deep learning & Transformers
+torch
+transformers
+datasets
+evaluate
+accelerate
+
+# Streamlit for web app
+streamlit
+
+# Model Loading
+huggingface_hub
