@@ -1,28 +1,10 @@
-# Scraping
-selenium
-webdriver-manager
+# Core app
+streamlit>=1.32.0
 
-# Data manipulation and analysis
-pandas
-matplotlib
-numpy
-seaborn
-
-# Machine learning
-scikit-learn
-
-# Jupyter Notebook
-ipykernel
-
-# Deep learning & Transformers
+# Deep learning
 torch
 transformers
-datasets
-evaluate
-accelerate
-
-# Streamlit for web app
-streamlit
-
-# Model Loading
 huggingface_hub
+
+
+accelerate
